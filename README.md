@@ -34,7 +34,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdv188&layout=compact&theme=tokyonight" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdv188&layout=compact&theme=tokyonight" width="36%" />
   <img src="https://github-readme-stats.vercel.app/api?username=cdv188&show_icons=true&theme=tokyonight" width="48%" />
 </p>
 
