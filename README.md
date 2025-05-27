@@ -12,11 +12,11 @@ I have at least 3 years of experience in web programming. I'm currently learning
   - JavaScript
   - HTML/CSS
   - React.js
-  - Tailwind\
+  - Tailwind
 - **Backend:**
   - MySQL
   - PHP
-  - Java\
+  - Java
 - **Tools:**
   - Git/Github
 
