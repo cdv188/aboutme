@@ -2,20 +2,19 @@
 <h3 align="center">A Programmer passionate about creating a user friendly interfaces and </h3>
 
 <p align="center">
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <!--- <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/chestervalencerina"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### About Me
 
-- 🔭 I’m currently working on **[Your Project or Job]**
-- 🌱 I’m learning **[Tech You're Learning]**
-- 💬 Ask me about **[Your Specialties or Interests]**
-- ⚡ Fun fact: **[Cool Trivia About You]**
+- 🔭 I’m currently working on **Full-featured multi-tenant app**
+- 🌱 I’m learning **React.js and Typescript**
+- 💬 Ask me about **Web Programming or Recent Projects**
+- ⚡ Fun fact: **I did Taekwondo for 2 years**
 
 ---
 
@@ -43,4 +42,4 @@
 
 ### Let's Connect
 
-Feel free to reach out via [email](mailto:youremail@example.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+Feel free to reach out via [email](mailto:vale0192@algonquinlive.com) or connect with me on [LinkedIn](www.linkedin.com/in/chestervalencerina).
