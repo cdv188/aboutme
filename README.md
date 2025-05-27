@@ -2,7 +2,7 @@
 <h3 align="center">I'm a level 3 student at Algonquin College studying computer programming. I'm a passionate developer with a drive for learning new technologies and I'm always looking for new challenges. </h3>
 
 <p align="center">
-  <a href="[https://yourwebsite.com](https://react-tailwind-portfolio-nu.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://react-tailwind-portfolio-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:vale0192@algonquinlive.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="www.linkedin.com/in/chestervalencerina"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
