@@ -9,11 +9,16 @@ I have at least 3 years of experience in web programming. I'm currently learning
 ## 🛠 Skills
 
 - **Frontend:**
-  - JavaScript, HTML/CSS, React.js, Tailwind\
+  - JavaScript
+  - HTML/CSS
+  - React.js
+  - Tailwind\
 - **Backend:**
-  - MySQL, PHP, Java\
+  - MySQL
+  - PHP
+  - Java\
 - **Tools:**
-  - Git/Github,
+  - Git/Github
 
 ## 🔗 Links
 
