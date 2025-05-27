@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Full-featured multi-tenant app**
 - 🌱 I’m learning **React.js and Typescript**
-- 💬 Ask me about **Web Programming or Recent Projects**
+- 💬 Ask me about **Potential Projects or my Recent Projects**
 - ⚡ Fun fact: **I did Taekwondo for 2 years**
 
 ---
