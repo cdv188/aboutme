@@ -41,9 +41,8 @@
 ---
 
 ### Certificate
-<p align="center">
-  <img src="cert.png" width="30%"/>
-</p>
+  <img src="cert.png" width="25%"/>
+
 
 ---
 
