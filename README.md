@@ -11,7 +11,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **Full-featured multi-tenant app**
+- 🔭 I’m currently working on **Full-stack AI SAAS Project**
 - 🌱 I’m learning **React.js and Typescript**
 - 💬 Ask me about **Potential Projects or my Recent Projects**
 - ⚡ Fun fact: **I did Taekwondo for 2 years**
