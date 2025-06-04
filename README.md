@@ -1,4 +1,4 @@
-d<h1 align="center">Hi, I'm Chester Don Valencerina!</h1>
+<h1 align="center">Hi, I'm Chester Don Valencerina!</h1>
 <h3 align="center">I'm a level 3 student at Algonquin College studying computer programming. I'm a passionate developer with a drive for learning new technologies and I'm always looking for new challenges. </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ d<h1 align="center">Hi, I'm Chester Don Valencerina!</h1>
 ### Skills and Tools
 
 - **Frontend:**
-  - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - [![HTML](https://skillicons.dev/icons?i=js,html,css,js,react,tailwind,flutter)](https://skillicons.dev)
     ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
     ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -55,6 +55,6 @@ d<h1 align="center">Hi, I'm Chester Don Valencerina!</h1>
 
 ---
 
-### Let's Connect
+###🔗 Let's Connect
 
 Feel free to reach out via [email](mailto:vale0192@algonquinlive.com) or connect with me on [LinkedIn](www.linkedin.com/in/chestervalencerina).
