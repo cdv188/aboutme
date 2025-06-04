@@ -21,22 +21,13 @@
 ### Skills and Tools
 
 - **Frontend:**
-  - [![HTML](https://skillicons.dev/icons?i=js,html,css,js,react,tailwind,flutter)](https://skillicons.dev)
-    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-    ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-    ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  - [![Frontend skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,flutter)](https://skillicons.dev)
 - **Backend:**
-  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  - [![Backend skills](https://skillicons.dev/icons?i=php,java)](https://skillicons.dev)
 - **Database:**
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  - [![Database skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 - **Tools:**
-  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  - [![Tools](https://skillicons.dev/icons?i=linux,git,docker)](https://skillicons.dev)
 
 ---
 
