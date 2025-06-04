@@ -46,6 +46,6 @@
 
 ---
 
-###🔗 Let's Connect
+### 🔗 Let's Connect
 
 Feel free to reach out via [email](mailto:vale0192@algonquinlive.com) or connect with me on [LinkedIn](www.linkedin.com/in/chestervalencerina).
