@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chester Don Valencerina!</h1>
-<h3 align="center">I'm a level 3 student at Algonquin College studying computer programming. I'm a passionate developer with a drive for learning new technologies and I'm always looking for new challenges. </h3>
+<h3 align="center">I'm a level 3 student at Algonquin College studying computer programming. I'm a developer with a drive for learning new technologies and I'm always looking for new challenges. </h3>
 
 <p align="center">
   <a href="https://react-tailwind-portfolio-nu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
