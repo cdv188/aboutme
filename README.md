@@ -33,8 +33,10 @@
 
 ### Certificate
   <img src="cert.png" width="25%"/>
-
-
+  <img src="agile_cert.png" width="25%"/>
+  <img src="sdlc_cert.png" width="25%"/>
+  <img src="patterns_cert.png" width="25%"/>
+  
 ---
 
 ### GitHub Stats
